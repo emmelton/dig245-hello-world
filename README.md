@@ -8,13 +8,13 @@ Getting started with HTML
 
 ## Instructions
 
-- [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
+- [x] Fork this repository and clone it to your `critical-web-design` folder on your machine.
 
 
 #### Code
-- [ ] Use HTML to code your project inside `index.html`.
-- [ ] Add the following content, using HTML to make your text readable. Experiment!
-- [ ] Your name, year of school, major (or intended major)
+- [x] Use HTML to code your project inside `index.html`.
+- [x] Add the following content, using HTML to make your text readable. Experiment!
+- [x] Your name, year of school, major (or intended major)
 - [ ] Why are you taking this course?
 - [ ] What experience do you have creating content for the web or programming?
 - [ ] What are your goals in this course?
