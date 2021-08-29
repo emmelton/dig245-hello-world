@@ -12,11 +12,11 @@ Getting started with HTML
 
 
 #### Code
-- [x] Use HTML to code your project inside `index.html`.
-- [x] Add the following content, using HTML to make your text readable. Experiment!
-- [x] Your name, year of school, major (or intended major)
-- [x] Why are you taking this course?
-- [x] What experience do you have creating content for the web or programming?
+- [ ] Use HTML to code your project inside `index.html`.
+- [ ] Add the following content, using HTML to make your text readable. Experiment!
+- [ ] Your name, year of school, major (or intended major)
+- [ ] Why are you taking this course?
+- [ ] What experience do you have creating content for the web or programming?
 - [ ] What are your goals in this course?
 - [ ] In 100-150 words, summarize the [learn-computing](https://github.com/omundy/learn-computing) activity you did with your group.
 - [ ] Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
