@@ -12,21 +12,21 @@ Getting started with HTML
 
 
 #### Code
-- [ ] Use HTML to code your project inside `index.html`.
-- [ ] Add the following content, using HTML to make your text readable. Experiment!
-- [ ] Your name, year of school, major (or intended major)
-- [ ] Why are you taking this course?
-- [ ] What experience do you have creating content for the web or programming?
-- [ ] What are your goals in this course?
-- [ ] In 100-150 words, summarize the [learn-computing](https://github.com/omundy/learn-computing) activity you did with your group.
-- [ ] Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
-- [ ] Add an HTML comment explaining if any part of this assignment was difficult.
+- [x] Use HTML to code your project inside `index.html`.
+- [x] Add the following content, using HTML to make your text readable. Experiment!
+- [x] Your name, year of school, major (or intended major)
+- [x] Why are you taking this course?
+- [x] What experience do you have creating content for the web or programming?
+- [x] What are your goals in this course?
+- [x] In 100-150 words, summarize the [learn-computing](https://github.com/omundy/learn-computing) activity you did with your group.
+- [x] Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
+- [x] Add an HTML comment explaining if any part of this assignment was difficult.
 
 
 #### Publish
-- [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
-- [ ] Commit changes regularly.
-- [ ] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
+- [x] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+- [x] Commit changes regularly.
+- [x] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 
 
